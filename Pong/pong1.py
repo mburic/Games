@@ -1,5 +1,3 @@
-# Simple Pong in Python 3 for beginners
-
 import turtle
 import winsound
 
